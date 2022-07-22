@@ -1,0 +1,49 @@
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.config
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.pdb
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.xml
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Form1.resources
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Resources.resources
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.vbproj.GenerateResource.Cache
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.xml
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.pdb
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.manifest
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.application
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe.manifest
+C:\Users\kendat\Desktop\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.application
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.config
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.xml
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.pdb
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.manifest
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.application
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.pdb
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.xml
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Form1.resources
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Resources.resources
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.vbproj.GenerateResource.Cache
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe.manifest
+C:\Users\kendat\Documents\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.application
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.config
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.xml
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.pdb
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Form1.resources
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Resources.resources
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.vbproj.GenerateResource.Cache
+E:\my Junk\Software Development\Visual Basic\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.config
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.xml
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.pdb
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Form1.resources
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.Resources.resources
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.vbproj.GenerateResource.Cache
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe.manifest
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.application
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.exe
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.pdb
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\bin\Debug\Brick_Breaker.xml
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.exe.manifest
+C:\Users\Balami\Desktop\Brick_Breaker\Brick_Breaker\obj\Debug\Brick_Breaker.application
